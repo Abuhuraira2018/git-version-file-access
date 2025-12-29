@@ -1,5 +1,10 @@
 chnages made by abu
+<<<<<<< HEAD
+adding implicit wait for actions 
 
 checkbox.click
 
 button.click()
+=======
+adding implicit wait for actions 
+>>>>>>> 1ff8171ef7233f9e44559d138d8ac87b7328e801

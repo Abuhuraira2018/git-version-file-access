@@ -1,3 +1,7 @@
 new implemenation completed by afra
-
+<<<<<<< HEAD
+auto wait implemenetd in selenum
 new functions done
+=======
+
+>>>>>>> 1ff8171ef7233f9e44559d138d8ac87b7328e801
